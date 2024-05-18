@@ -20,8 +20,7 @@ for free from <https://www.java.com/en/download/> or
 
 ### MacOS
 
-Download the ZIP archive from
-<https://ecwindfest.org/GPS/GPSSpeedreaderMac.zip> and unpack the ZIP
+[Download the ZIP archive with the Mac application](https://github.com/prichterich/GPS-Speedreader/raw/e1a3d014a891efda722881944d5b52d49e5197f5/download/GPSSpeedreader2.2.3_Mac.zip)  and unpack the ZIP
 archive. Requires MacOS 10.9 or newer.
 
 After downloading and unzipping, move the application to your
@@ -34,8 +33,7 @@ gives you an option to open the application.
 
 ### Windows
 
-Download the ZIP archive from
-<https://ecwindfest.org/GPS/GPSSpeedreader.exe.zip> and unpack the ZIP
+[Download the ZIP archive with the Windows executable](https://github.com/prichterich/GPS-Speedreader/raw/e1a3d014a891efda722881944d5b52d49e5197f5/download/GPSSpeedreader2.2.3_Windows.exe.zip) and unpack the ZIP
 archive.
 
 After downloading and unzipping, move the application to a folder of
@@ -45,9 +43,8 @@ antivirus software that you have to click through.
 
 ### Linux
 
-Download the ZIP archive from
-<https://ecwindfest.org/GPS/GPSSpeedreader.jar.zip> and unpack the ZIP
-archive.
+[Download the ZIP archive with the jar file](https://github.com/prichterich/GPS-Speedreader/raw/e1a3d014a891efda722881944d5b52d49e5197f5/download/GPSSpeedreader2.2.3.jar.zip)
+and unpack the ZIP archive.
 
 After downloading and unzipping, move the GPSSpeedreader.jar file to a
 folder of your choice. If Java is correctly installed on your system,
