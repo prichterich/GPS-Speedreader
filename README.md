@@ -53,11 +53,10 @@ GPSSpeedreader.jar file.
 
 ## Recent Changes
 
-### Version 2.2.3
+### Version 2.2.4
 
--   New ability to save and import defined background maps
+-   Improved drawing of speeds when comparing tracks with different data rates
 -   Polar plot improvements
--   Improved support for files that do not have doppler speed data
--   Multiple bug fixes
+-   Bug fixes
 
 For changes in older versions, please read the [change log](CHANGELOG.md)
