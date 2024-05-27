@@ -1,5 +1,11 @@
 ## Change Log
 
+### Version 2.2.4
+
+-   Improved drawing of speeds when comparing tracks with different data rates
+-   Polar plot improvements
+-   Bug fixes
+  
 ### Version 2.2.3
 
 -   New ability to save and import defined background maps
