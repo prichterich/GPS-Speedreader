@@ -5,7 +5,7 @@ Challenge, in close collaboration with GPSTC advisors.
 
 GPS Speedreader is free to use, and supplied without any warranties.
 
-The current GPS Speedreader version is 2.2.3 released March 19, 2024.
+The current GPS Speedreader version is 2.2.4 released May 27, 2024.
 
 ## Downloads
 
@@ -20,7 +20,7 @@ for free from <https://www.java.com/en/download/> or
 
 ### MacOS
 
-[Download the ZIP archive with the Mac application](https://github.com/prichterich/GPS-Speedreader/raw/e1a3d014a891efda722881944d5b52d49e5197f5/download/GPSSpeedreader2.2.3_Mac.zip)  and unpack the ZIP
+[Download the ZIP archive with the Mac application](https://github.com/prichterich/GPS-Speedreader/raw/main/download/GPSSpeedreader_Mac.zip)  and unpack the ZIP
 archive. Requires MacOS 10.9 or newer.
 
 After downloading and unzipping, move the application to your
@@ -33,7 +33,7 @@ gives you an option to open the application.
 
 ### Windows
 
-[Download the ZIP archive with the Windows executable](https://github.com/prichterich/GPS-Speedreader/raw/e1a3d014a891efda722881944d5b52d49e5197f5/download/GPSSpeedreader2.2.3_Windows.exe.zip) and unpack the ZIP
+[Download the ZIP archive with the Windows executable](https://github.com/prichterich/GPS-Speedreader/raw/main/download/GPSSpeedreader_Windows.zip) and unpack the ZIP
 archive.
 
 After downloading and unzipping, move the application to a folder of
@@ -43,7 +43,7 @@ antivirus software that you have to click through.
 
 ### Linux
 
-[Download the ZIP archive with the jar file](https://github.com/prichterich/GPS-Speedreader/raw/e1a3d014a891efda722881944d5b52d49e5197f5/download/GPSSpeedreader2.2.3.jar.zip)
+[Download the ZIP archive with the jar file](https://github.com/prichterich/GPS-Speedreader/raw/main/download/GPSSpeedreader.jar.zip)
 and unpack the ZIP archive.
 
 After downloading and unzipping, move the GPSSpeedreader.jar file to a
