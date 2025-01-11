@@ -1,4 +1,12 @@
-## Change Log
+## GPS Speedreader Change Log
+
+### Version 3.0.1
+
+-   Support posting of results from Garmin 255 and 255 Music watches to the GPS Team Challenge; requires that sessions are recorded with "all GNSS systems + multiband" and an activity mode that does not use heavy filtering
+-   Improvements for analysing files in FIT format that address specific "peculiarities" in Garmin FIT files
+-   Turn analysis improvements for foiling (set exit length, eliminate overlapping turns)
+-   New option to draw positional speeds (requires "Show expert menu items and columns" to be selected in the Preferences)
+-   Bug fixes and other minor improvements
 
 ### Version 2.2.4
 
