@@ -5,8 +5,8 @@ Challenge, in close collaboration with GPSTC advisors.
 
 GPS Speedreader is free to use, and supplied without any warranties.
 
-The current GPS Speedreader version is 3.0.1 released January 11, 2025. 
-Version 3 adds support for posting results from Garmin 255 and 225 Music watches to the GPS Team Challenge.
+The current GPS Speedreader version is 3.0.2 released February 5, 2025. 
+Version 3 added support for posting results from Garmin 255 and 225 Music watches to the GPS Team Challenge.
 
 ## Downloads
 
@@ -54,11 +54,10 @@ GPSSpeedreader.jar file.
 
 ## Recent Changes
 
-### Version 3.0.1
+### Version 3.0.2
 
--   Support posting of results from Garmin 255 and 255 Music watches to the GPS Team Challenge (if recorded with correct settings)
--   Improvements for analysing files in FIT format that address specific "peculiarities" in Garmin FIT files
--   Turn analysis improvements for foiling (set exit length, eliminate overlapping turns)
--   New option to draw positional speeds (requires "Show expert menu items and columns" to be selected in the Preferences)
+- Interpolate (and list) repeated points; fixed parsing float COG in FIT files
+- Added "Draw/Hide positional speeds" to popup menus (if "Show expert menu items and columns" is selected in the preferences)
+- Multiple bug fixes, including drawing alpha circles correctly and tracking GNSS settings on Garmin watches correctly
 
 For additional details and changes in older versions, please read the [change log](CHANGELOG.md)
