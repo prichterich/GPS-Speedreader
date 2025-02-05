@@ -11,10 +11,9 @@ Version 3 added support for posting results from Garmin 255 and 225 Music watche
 ## Downloads
 
 The links below are ZIP files that contain the applications for MacOS
-and Windows, and an executable jar file for Linux. _Downloads will be converted
-to Github in the near future_.  
-To run GPS
-Speedreader, Java must be installed on your computer (version 8 or
+and Windows, and an executable jar file for Linux.  
+
+To run GPSSpeedreader, Java must be installed on your computer (version 8 or
 newer). If Java is not installed on your computer, you can download it
 for free from <https://www.java.com/en/download/> or
 <https://adoptium.net/temurin/releases/>.
