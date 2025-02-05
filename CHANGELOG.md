@@ -1,5 +1,14 @@
 ## GPS Speedreader Change Log
 
+### Version 3.0.2
+
+- Interpolate (and list) repeated points; fixed parsing float COG in FIT files
+- Added "Draw/Hide positional speeds" to popup menus (if "Show expert menu items and columns" is selected in the preferences)
+- Draw alpha proximity circles correctly
+- In Garmin .fit files, ignore GNSS settings changes (resets) at the end of a session
+- Show changes in line size settings made in the preference dialog
+- Various additional bug fixes
+
 ### Version 3.0.1
 
 -   Support posting of results from Garmin 255 and 255 Music watches to the GPS Team Challenge; requires that sessions are recorded with "all GNSS systems + multiband" and an activity mode that does not use heavy filtering
