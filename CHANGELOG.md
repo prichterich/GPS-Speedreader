@@ -1,5 +1,10 @@
 ## GPS Speedreader Change Log
 
+### Version 3.0.3
+
+- Added support for posting results from Garmin FR965 watches to GPSTC
+- Removed checks that required the release of a new version if new Garmin watches are approved for GPSTC posting in the future
+
 ### Version 3.0.2
 
 - Interpolate (and list) repeated points; fixed parsing float COG in FIT files
