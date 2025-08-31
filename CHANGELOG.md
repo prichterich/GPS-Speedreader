@@ -1,5 +1,12 @@
 ## GPS Speedreader Change Log
 
+### Version 3.0.4
+
+- Added popup menu with options to change misclassified turns (e.g. jibes to tacks)
+- Added option to set the text size when exporting to Google Earth
+- Show correct turn diameter when exit length is greater than 50 m
+- Fixed a bug where the minimum speed for turns was sometimes wrong (primarily in wing tacks)
+
 ### Version 3.0.3
 
 - Added support for posting results from Garmin FR965 watches to GPSTC
