@@ -5,8 +5,8 @@ Challenge, in close collaboration with GPSTC advisors.
 
 GPS Speedreader is free to use, and supplied without any warranties.
 
-The current GPS Speedreader version is 3.0.3 released February 21, 2025. 
-Version 3.03 added support for posting results from Garmin FR965 watches to the GPS Team Challenge. 
+The current GPS Speedreader version is 3.0.4 released August 31, 2025. 
+Version 3.04 added options to change misclassified turns, for example jibes to tacks; added an option to change text size when exporting to Google Earth; and fixed bugs in the calculation of turn diameters and minimum speed.
 
 ## Downloads
 
