@@ -53,10 +53,11 @@ GPSSpeedreader.jar file.
 
 ## Recent Changes
 
-### Version 3.0.2
+### Version 3.0.4
 
-- Interpolate (and list) repeated points; fixed parsing float COG in FIT files
-- Added "Draw/Hide positional speeds" to popup menus (if "Show expert menu items and columns" is selected in the preferences)
-- Multiple bug fixes, including drawing alpha circles correctly and tracking GNSS settings on Garmin watches correctly
+- Added popup menu with options to change misclassified turns (e.g. jibes to tacks)
+- Added option to set the text size when exporting to Google Earth
+- Show correct turn diameter when exit length is greater than 50 m
+- Fixed a bug where the minimum speed for turns was sometimes wrong (primarily in wing tacks)
 
 For additional details and changes in older versions, please read the [change log](CHANGELOG.md)
